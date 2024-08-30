@@ -1,0 +1,1201 @@
+Date,Category,Amount,Payment Method,Description
+28-08-2023,Expense,987,Cash,Transfer 
+10-06-2023,Income,285,Cash,Transfer 
+27-11-2024,Income,810,Nagad,Rent 
+20-08-2024,Expense,311,Cash,Salary 
+16-06-2024,Income,324,Cash,Salary 
+03-12-2023,Expense,558,Cash,Shopping 
+02-12-2024,Expense,456,Nagad,Shopping 
+26-06-2024,Expense,400,Nagad,Transfer 
+19-11-2024,Income,221,Nagad,Transfer 
+14-07-2023,Expense,812,Cash,Salary 
+26-05-2023,Income,173,Nagad,Salary 
+06-06-2024,Expense,959,Cash,Transfer 
+15-11-2023,Income,679,Credit Card,Transfer 
+21-10-2023,Expense,339,Credit Card,Salary 
+04-03-2024,Expense,841,Bkash,Transfer 
+02-11-2023,Expense,835,Bkash,Groceries 
+28-01-2023,Income,351,Nagad,Rent 
+24-03-2024,Expense,444,Bkash,Shopping 
+02-09-2024,Income,976,Cash,Shopping 
+25-06-2024,Income,410,Cash,Salary 
+14-07-2023,Expense,595,Credit Card,Salary 
+23-05-2024,Expense,723,Cash,Transfer 
+16-05-2023,Income,483,Cash,Groceries 
+03-03-2023,Expense,115,Bkash,Shopping 
+03-03-2023,Expense,354,Nagad,Groceries 
+25-12-2024,Income,647,Cash,Salary 
+14-07-2023,Income,964,Cash,Groceries 
+20-04-2024,Income,102,Bkash,Groceries 
+12-10-2023,Income,292,Nagad,Shopping 
+08-03-2023,Expense,418,Nagad,Shopping 
+06-10-2024,Income,935,Cash,Groceries 
+17-12-2024,Income,707,Cash,Transfer 
+01-10-2024,Expense,360,Nagad,Transfer 
+09-02-2024,Expense,209,Bkash,Salary 
+17-10-2024,Expense,279,Bkash,Groceries 
+13-06-2024,Expense,217,Nagad,Rent 
+08-03-2024,Expense,337,Nagad,Rent 
+28-06-2023,Income,305,Bkash,Transfer 
+05-01-2024,Expense,589,Cash,Groceries 
+25-03-2024,Expense,156,Cash,Rent 
+23-02-2024,Expense,267,Nagad,Transfer 
+08-11-2024,Expense,662,Bkash,Shopping 
+17-08-2024,Income,639,Credit Card,Rent 
+26-04-2023,Expense,846,Cash,Transfer 
+23-01-2023,Expense,935,Bkash,Salary 
+07-02-2024,Expense,478,Credit Card,Transfer 
+06-09-2023,Income,156,Cash,Shopping 
+01-08-2024,Income,862,Bkash,Shopping 
+24-10-2023,Expense,142,Cash,Groceries 
+02-11-2024,Expense,621,Bkash,Transfer 
+04-06-2023,Expense,993,Cash,Salary 
+26-05-2024,Income,442,Credit Card,Groceries 
+19-05-2024,Expense,106,Cash,Rent 
+01-09-2023,Expense,692,Bkash,Transfer 
+07-11-2023,Income,243,Bkash,Salary 
+12-11-2023,Income,470,Bkash,Salary 
+05-06-2024,Expense,472,Credit Card,Shopping 
+05-10-2024,Income,731,Bkash,Salary 
+09-09-2023,Income,701,Nagad,Shopping 
+08-02-2024,Income,296,Bkash,Rent 
+17-03-2023,Expense,207,Nagad,Transfer 
+16-02-2023,Income,410,Credit Card,Rent 
+07-10-2023,Expense,302,Credit Card,Salary 
+07-09-2023,Income,990,Cash,Rent 
+14-04-2024,Expense,491,Cash,Transfer 
+21-08-2024,Expense,489,Cash,Transfer 
+19-07-2023,Expense,662,Credit Card,Transfer 
+02-04-2023,Income,883,Credit Card,Rent 
+28-03-2023,Income,585,Cash,Salary 
+15-01-2024,Expense,195,Bkash,Groceries 
+21-09-2024,Income,109,Bkash,Transfer 
+14-09-2024,Expense,570,Cash,Groceries 
+19-03-2023,Income,274,Bkash,Shopping 
+23-06-2024,Income,795,Bkash,Rent 
+01-02-2024,Income,679,Credit Card,Transfer 
+23-02-2024,Income,520,Nagad,Groceries 
+06-07-2023,Income,467,Bkash,Groceries 
+17-09-2023,Expense,553,Cash,Transfer 
+08-09-2024,Expense,206,Nagad,Salary 
+03-06-2023,Expense,354,Credit Card,Salary 
+26-10-2024,Income,956,Cash,Groceries 
+08-03-2024,Expense,900,Nagad,Groceries 
+17-01-2023,Income,857,Bkash,Rent 
+03-03-2023,Income,832,Bkash,Salary 
+17-11-2023,Income,807,Credit Card,Groceries 
+16-07-2024,Income,790,Bkash,Salary 
+28-12-2024,Income,615,Cash,Shopping 
+20-09-2023,Expense,871,Bkash,Groceries 
+13-12-2023,Income,674,Nagad,Salary 
+25-12-2023,Income,922,Bkash,Groceries 
+02-04-2023,Income,265,Nagad,Salary 
+06-09-2024,Income,755,Credit Card,Shopping 
+27-11-2023,Income,849,Bkash,Salary 
+13-01-2023,Expense,286,Bkash,Salary 
+17-11-2023,Expense,815,Credit Card,Groceries 
+21-03-2024,Expense,378,Bkash,Salary 
+16-08-2023,Expense,721,Nagad,Rent 
+19-04-2023,Income,872,Cash,Rent 
+28-06-2024,Expense,900,Bkash,Rent 
+19-11-2023,Income,714,Nagad,Shopping 
+19-11-2024,Income,622,Credit Card,Transfer 
+22-07-2024,Expense,149,Cash,Shopping 
+21-08-2024,Income,901,Bkash,Shopping 
+09-11-2024,Expense,333,Nagad,Rent 
+09-05-2023,Income,415,Credit Card,Rent 
+20-01-2023,Expense,246,Nagad,Salary 
+07-08-2023,Income,163,Bkash,Groceries 
+20-11-2024,Income,464,Credit Card,Rent 
+04-02-2023,Income,411,Bkash,Shopping 
+05-08-2024,Expense,999,Nagad,Shopping 
+05-12-2023,Income,264,Credit Card,Salary 
+27-10-2023,Income,300,Cash,Rent 
+20-01-2024,Expense,727,Credit Card,Groceries 
+12-01-2023,Income,742,Bkash,Groceries 
+18-12-2023,Income,699,Nagad,Rent 
+14-05-2024,Income,790,Nagad,Transfer 
+14-10-2024,Income,538,Nagad,Rent 
+28-06-2024,Income,646,Credit Card,Transfer 
+24-09-2023,Income,553,Nagad,Salary 
+26-04-2023,Expense,289,Credit Card,Shopping 
+23-07-2023,Expense,499,Bkash,Rent 
+06-11-2024,Expense,763,Nagad,Transfer 
+25-08-2023,Expense,513,Credit Card,Rent 
+07-03-2023,Income,501,Bkash,Rent 
+10-03-2024,Expense,859,Credit Card,Groceries 
+12-10-2024,Income,132,Cash,Transfer 
+18-12-2024,Expense,951,Nagad,Groceries 
+12-02-2024,Income,274,Cash,Transfer 
+20-02-2024,Expense,579,Nagad,Transfer 
+28-02-2023,Expense,273,Bkash,Salary 
+05-06-2023,Expense,402,Cash,Transfer 
+19-02-2023,Expense,240,Credit Card,Rent 
+05-10-2023,Expense,519,Bkash,Rent 
+01-02-2024,Expense,794,Nagad,Salary 
+22-10-2023,Income,641,Nagad,Shopping 
+18-08-2023,Income,395,Cash,Transfer 
+14-12-2024,Income,364,Credit Card,Salary 
+06-08-2023,Expense,515,Nagad,Rent 
+18-06-2023,Expense,562,Bkash,Salary 
+07-11-2024,Income,819,Bkash,Transfer 
+12-12-2024,Income,203,Credit Card,Salary 
+28-04-2023,Expense,887,Bkash,Transfer 
+12-05-2023,Income,986,Nagad,Shopping 
+15-10-2024,Income,142,Bkash,Rent 
+11-02-2024,Expense,725,Nagad,Groceries 
+06-01-2023,Expense,121,Credit Card,Transfer 
+16-06-2024,Expense,806,Bkash,Groceries 
+14-03-2024,Expense,509,Credit Card,Groceries 
+11-11-2024,Expense,637,Credit Card,Transfer 
+07-09-2024,Expense,368,Cash,Salary 
+10-06-2024,Income,715,Nagad,Salary 
+08-07-2023,Expense,408,Cash,Salary 
+15-08-2024,Income,382,Bkash,Rent 
+23-07-2023,Expense,633,Bkash,Groceries 
+10-04-2023,Income,463,Nagad,Groceries 
+25-03-2023,Expense,159,Cash,Salary 
+21-07-2024,Expense,391,Cash,Rent 
+06-07-2023,Income,397,Bkash,Shopping 
+09-02-2023,Expense,933,Cash,Rent 
+18-09-2024,Income,856,Cash,Groceries 
+01-03-2023,Expense,452,Bkash,Salary 
+17-10-2024,Income,996,Nagad,Rent 
+14-01-2024,Expense,704,Bkash,Rent 
+08-09-2024,Expense,598,Bkash,Shopping 
+07-04-2024,Income,328,Cash,Rent 
+05-02-2024,Income,908,Nagad,Transfer 
+10-06-2023,Income,860,Nagad,Salary 
+12-02-2024,Expense,545,Bkash,Transfer 
+15-02-2024,Income,796,Bkash,Shopping 
+04-02-2024,Income,926,Nagad,Shopping 
+25-07-2023,Expense,234,Nagad,Rent 
+23-01-2023,Expense,666,Nagad,Salary 
+11-08-2023,Income,517,Credit Card,Groceries 
+14-11-2024,Income,796,Credit Card,Salary 
+28-10-2024,Income,161,Nagad,Salary 
+06-05-2024,Income,234,Cash,Transfer 
+22-07-2024,Expense,779,Cash,Transfer 
+22-04-2023,Expense,196,Bkash,Groceries 
+02-10-2024,Income,957,Bkash,Shopping 
+14-07-2024,Expense,438,Cash,Shopping 
+26-04-2023,Expense,293,Cash,Groceries 
+11-04-2023,Income,302,Nagad,Shopping 
+15-03-2023,Expense,701,Cash,Shopping 
+25-02-2024,Expense,553,Cash,Salary 
+17-09-2024,Income,743,Cash,Salary 
+18-03-2023,Income,761,Nagad,Groceries 
+06-07-2023,Expense,861,Bkash,Shopping 
+04-10-2024,Expense,533,Credit Card,Salary 
+22-04-2024,Expense,727,Bkash,Rent 
+20-05-2023,Expense,429,Credit Card,Salary 
+01-08-2024,Income,546,Credit Card,Shopping 
+28-03-2023,Income,496,Bkash,Shopping 
+05-09-2024,Income,350,Nagad,Groceries 
+23-12-2023,Income,292,Bkash,Rent 
+27-09-2023,Income,732,Nagad,Transfer 
+20-10-2023,Income,141,Cash,Salary 
+26-03-2024,Expense,307,Nagad,Shopping 
+17-06-2024,Income,489,Credit Card,Transfer 
+10-03-2023,Income,855,Bkash,Salary 
+09-01-2024,Income,966,Nagad,Salary 
+17-10-2024,Expense,972,Nagad,Transfer 
+22-08-2023,Income,422,Nagad,Rent 
+23-12-2023,Expense,753,Credit Card,Rent 
+27-01-2024,Expense,802,Cash,Shopping 
+19-08-2024,Expense,530,Bkash,Rent 
+17-03-2023,Income,953,Credit Card,Transfer 
+05-07-2023,Income,131,Bkash,Shopping 
+21-08-2024,Income,776,Bkash,Shopping 
+21-01-2024,Expense,351,Nagad,Rent 
+09-05-2023,Income,508,Bkash,Groceries 
+19-06-2024,Expense,866,Nagad,Rent 
+23-01-2024,Income,637,Credit Card,Shopping 
+10-03-2023,Income,311,Credit Card,Transfer 
+09-02-2024,Income,868,Credit Card,Transfer 
+15-02-2023,Expense,577,Cash,Groceries 
+01-01-2024,Income,563,Bkash,Transfer 
+04-10-2024,Expense,668,Cash,Salary 
+24-03-2023,Income,124,Bkash,Shopping 
+26-06-2024,Income,180,Credit Card,Rent 
+04-04-2023,Income,631,Cash,Salary 
+17-12-2023,Expense,110,Bkash,Shopping 
+20-04-2024,Income,263,Bkash,Salary 
+27-07-2023,Expense,992,Cash,Rent 
+19-11-2024,Income,309,Credit Card,Salary 
+20-10-2024,Expense,308,Credit Card,Rent 
+14-06-2024,Expense,681,Cash,Groceries 
+20-08-2024,Income,122,Credit Card,Groceries 
+09-02-2023,Income,842,Credit Card,Groceries 
+10-06-2023,Expense,376,Bkash,Groceries 
+24-07-2023,Expense,970,Nagad,Rent 
+16-07-2023,Expense,703,Cash,Shopping 
+15-12-2024,Income,464,Credit Card,Transfer 
+06-06-2024,Income,642,Cash,Shopping 
+25-05-2024,Income,743,Nagad,Shopping 
+18-07-2024,Expense,567,Nagad,Groceries 
+22-06-2024,Income,621,Nagad,Shopping 
+12-09-2024,Income,266,Credit Card,Shopping 
+28-02-2024,Income,185,Nagad,Rent 
+13-10-2023,Expense,231,Cash,Transfer 
+06-11-2024,Expense,346,Cash,Transfer 
+22-07-2023,Income,893,Bkash,Transfer 
+25-08-2024,Expense,970,Credit Card,Salary 
+21-07-2024,Expense,696,Nagad,Shopping 
+10-01-2023,Income,869,Nagad,Rent 
+21-04-2023,Expense,731,Nagad,Transfer 
+07-01-2024,Income,107,Nagad,Shopping 
+13-06-2023,Expense,639,Nagad,Salary 
+08-05-2023,Expense,845,Nagad,Shopping 
+14-07-2024,Expense,376,Cash,Salary 
+24-09-2023,Expense,179,Bkash,Rent 
+23-12-2023,Expense,528,Cash,Salary 
+20-11-2023,Income,257,Credit Card,Transfer 
+23-11-2024,Income,641,Credit Card,Shopping 
+03-07-2024,Income,783,Bkash,Rent 
+14-06-2024,Expense,142,Nagad,Groceries 
+07-10-2023,Expense,818,Credit Card,Salary 
+18-08-2024,Income,275,Bkash,Groceries 
+15-11-2023,Expense,732,Nagad,Shopping 
+03-08-2024,Income,687,Bkash,Transfer 
+26-07-2023,Income,598,Bkash,Groceries 
+16-08-2024,Expense,690,Bkash,Shopping 
+09-04-2023,Income,468,Cash,Shopping 
+02-02-2023,Income,696,Credit Card,Rent 
+16-02-2023,Expense,719,Cash,Salary 
+24-04-2024,Expense,475,Bkash,Groceries 
+18-11-2023,Income,636,Credit Card,Salary 
+07-04-2024,Expense,932,Nagad,Groceries 
+05-08-2023,Expense,142,Credit Card,Groceries 
+20-05-2024,Income,846,Credit Card,Groceries 
+02-08-2023,Income,318,Nagad,Rent 
+18-03-2024,Expense,270,Credit Card,Salary 
+18-10-2023,Income,878,Bkash,Shopping 
+06-04-2024,Income,942,Credit Card,Shopping 
+25-12-2024,Income,470,Credit Card,Rent 
+20-02-2024,Income,427,Credit Card,Transfer 
+23-03-2023,Income,901,Bkash,Rent 
+24-12-2023,Income,919,Credit Card,Salary 
+26-07-2024,Expense,107,Nagad,Groceries 
+01-09-2024,Income,467,Cash,Shopping 
+01-09-2024,Income,367,Bkash,Groceries 
+05-04-2024,Expense,967,Credit Card,Transfer 
+21-10-2023,Income,842,Bkash,Shopping 
+08-09-2023,Income,318,Credit Card,Rent 
+16-07-2024,Expense,956,Nagad,Shopping 
+03-02-2024,Expense,655,Credit Card,Groceries 
+27-04-2023,Expense,190,Bkash,Rent 
+01-07-2023,Income,692,Cash,Salary 
+18-06-2023,Expense,326,Nagad,Groceries 
+01-01-2024,Income,111,Credit Card,Shopping 
+25-11-2024,Income,631,Bkash,Shopping 
+20-12-2024,Income,669,Credit Card,Transfer 
+08-05-2024,Expense,268,Credit Card,Transfer 
+10-12-2023,Expense,702,Cash,Transfer 
+06-01-2023,Expense,601,Cash,Salary 
+23-05-2023,Income,699,Cash,Transfer 
+12-12-2023,Income,889,Cash,Transfer 
+28-04-2023,Income,193,Cash,Rent 
+13-01-2023,Income,345,Credit Card,Shopping 
+26-11-2023,Income,321,Cash,Rent 
+27-10-2024,Expense,988,Bkash,Transfer 
+27-07-2024,Expense,396,Cash,Rent 
+05-11-2024,Income,150,Bkash,Rent 
+21-03-2023,Expense,992,Credit Card,Transfer 
+11-11-2024,Income,577,Bkash,Transfer 
+27-06-2023,Expense,165,Nagad,Transfer 
+05-04-2024,Income,460,Cash,Salary 
+21-01-2023,Income,466,Nagad,Rent 
+13-07-2024,Expense,583,Credit Card,Groceries 
+18-10-2023,Income,469,Cash,Groceries 
+03-09-2024,Expense,438,Cash,Transfer 
+25-12-2024,Income,156,Credit Card,Groceries 
+05-12-2023,Expense,489,Cash,Transfer 
+15-11-2024,Expense,243,Cash,Groceries 
+27-04-2024,Expense,350,Credit Card,Groceries 
+06-02-2024,Income,151,Bkash,Shopping 
+03-07-2024,Income,473,Cash,Groceries 
+09-04-2024,Expense,115,Bkash,Groceries 
+07-09-2024,Expense,119,Credit Card,Shopping 
+22-01-2024,Expense,159,Bkash,Shopping 
+12-03-2023,Expense,325,Nagad,Groceries 
+01-08-2024,Expense,545,Bkash,Groceries 
+12-06-2024,Expense,772,Nagad,Groceries 
+27-10-2023,Expense,151,Credit Card,Transfer 
+21-05-2023,Income,950,Bkash,Groceries 
+07-03-2024,Income,557,Nagad,Shopping 
+14-02-2023,Income,964,Credit Card,Rent 
+12-01-2024,Expense,215,Bkash,Groceries 
+27-01-2024,Income,852,Bkash,Rent 
+11-07-2024,Income,887,Credit Card,Transfer 
+23-10-2023,Income,791,Nagad,Salary 
+07-05-2024,Expense,432,Cash,Rent 
+25-11-2024,Income,440,Nagad,Shopping 
+17-01-2023,Expense,723,Nagad,Rent 
+07-05-2023,Income,936,Nagad,Transfer 
+02-01-2024,Expense,369,Bkash,Rent 
+19-05-2024,Income,259,Nagad,Transfer 
+17-11-2023,Income,252,Cash,Shopping 
+18-03-2024,Income,330,Bkash,Rent 
+27-07-2023,Income,546,Bkash,Salary 
+19-08-2024,Expense,656,Cash,Rent 
+13-12-2023,Expense,255,Cash,Transfer 
+15-08-2024,Expense,385,Bkash,Groceries 
+21-09-2023,Income,787,Nagad,Shopping 
+03-11-2024,Income,728,Bkash,Transfer 
+04-03-2023,Income,880,Credit Card,Salary 
+07-01-2024,Expense,976,Nagad,Shopping 
+22-05-2024,Income,621,Credit Card,Transfer 
+21-03-2023,Income,679,Credit Card,Groceries 
+27-08-2023,Income,647,Nagad,Rent 
+27-04-2024,Expense,938,Credit Card,Salary 
+19-02-2024,Income,432,Cash,Rent 
+14-09-2023,Income,233,Cash,Rent 
+14-04-2024,Income,425,Nagad,Rent 
+08-06-2023,Expense,392,Cash,Shopping 
+11-08-2023,Income,652,Nagad,Shopping 
+06-10-2024,Expense,470,Bkash,Transfer 
+01-07-2023,Income,179,Credit Card,Groceries 
+22-11-2024,Income,179,Cash,Salary 
+20-11-2023,Income,104,Nagad,Groceries 
+01-12-2024,Expense,234,Cash,Groceries 
+12-01-2023,Expense,188,Credit Card,Rent 
+11-12-2024,Expense,647,Credit Card,Groceries 
+03-09-2024,Expense,140,Cash,Shopping 
+18-04-2024,Income,160,Cash,Rent 
+20-02-2024,Expense,785,Cash,Salary 
+21-09-2024,Expense,634,Nagad,Groceries 
+25-04-2023,Income,642,Nagad,Transfer 
+23-07-2024,Expense,967,Bkash,Salary 
+15-07-2023,Income,718,Cash,Salary 
+18-05-2023,Income,868,Credit Card,Transfer 
+10-05-2023,Expense,577,Bkash,Transfer 
+26-09-2023,Expense,268,Cash,Groceries 
+04-08-2023,Expense,408,Credit Card,Groceries 
+16-08-2024,Income,432,Nagad,Rent 
+16-02-2024,Income,320,Credit Card,Salary 
+10-08-2023,Income,471,Credit Card,Transfer 
+01-06-2023,Income,977,Cash,Transfer 
+13-09-2023,Expense,836,Cash,Shopping 
+12-06-2023,Income,388,Bkash,Groceries 
+24-10-2024,Income,228,Nagad,Transfer 
+15-07-2023,Expense,429,Cash,Groceries 
+21-09-2024,Income,285,Credit Card,Transfer 
+17-10-2024,Expense,588,Bkash,Salary 
+10-08-2024,Income,593,Cash,Rent 
+15-07-2023,Expense,964,Cash,Groceries 
+08-10-2023,Expense,374,Cash,Shopping 
+02-12-2023,Expense,713,Credit Card,Groceries 
+19-07-2024,Expense,633,Cash,Groceries 
+01-05-2024,Expense,829,Nagad,Transfer 
+17-07-2023,Expense,241,Bkash,Groceries 
+12-09-2024,Expense,877,Nagad,Shopping 
+19-03-2024,Income,451,Credit Card,Groceries 
+28-09-2023,Income,702,Credit Card,Shopping 
+08-02-2023,Income,540,Credit Card,Rent 
+25-08-2023,Expense,599,Cash,Transfer 
+14-02-2023,Expense,537,Cash,Transfer 
+21-07-2023,Expense,454,Bkash,Salary 
+16-02-2023,Income,352,Bkash,Rent 
+10-01-2023,Income,914,Nagad,Transfer 
+17-01-2024,Income,231,Nagad,Rent 
+07-08-2023,Expense,420,Bkash,Groceries 
+01-05-2024,Income,744,Nagad,Shopping 
+19-06-2023,Income,581,Cash,Rent 
+20-10-2024,Expense,281,Credit Card,Salary 
+27-08-2023,Expense,786,Nagad,Rent 
+16-11-2024,Income,700,Nagad,Rent 
+13-10-2024,Expense,239,Cash,Rent 
+10-03-2024,Expense,187,Nagad,Rent 
+17-02-2023,Expense,959,Bkash,Transfer 
+26-08-2024,Income,997,Nagad,Transfer 
+27-09-2024,Expense,220,Bkash,Salary 
+18-06-2024,Expense,919,Nagad,Shopping 
+17-03-2024,Expense,998,Nagad,Rent 
+16-06-2024,Expense,101,Nagad,Transfer 
+15-08-2024,Income,751,Cash,Rent 
+02-03-2024,Expense,325,Cash,Rent 
+25-08-2023,Expense,996,Cash,Salary 
+17-08-2023,Expense,492,Credit Card,Salary 
+20-01-2023,Expense,290,Nagad,Groceries 
+15-09-2023,Expense,439,Credit Card,Transfer 
+24-02-2024,Expense,493,Nagad,Transfer 
+18-11-2023,Income,116,Credit Card,Shopping 
+19-03-2023,Income,745,Cash,Transfer 
+13-09-2023,Income,978,Credit Card,Salary 
+23-06-2024,Income,993,Credit Card,Transfer 
+22-09-2024,Income,221,Credit Card,Shopping 
+05-10-2024,Expense,211,Nagad,Transfer 
+06-06-2023,Expense,800,Bkash,Groceries 
+02-10-2024,Income,616,Credit Card,Groceries 
+15-01-2024,Expense,789,Cash,Shopping 
+21-04-2023,Expense,848,Nagad,Shopping 
+10-04-2024,Income,243,Credit Card,Groceries 
+02-05-2024,Income,346,Nagad,Salary 
+20-09-2024,Expense,447,Bkash,Transfer 
+17-08-2023,Expense,334,Cash,Groceries 
+20-07-2023,Income,307,Credit Card,Groceries 
+04-01-2023,Expense,867,Cash,Rent 
+17-01-2023,Income,169,Nagad,Shopping 
+04-09-2023,Expense,524,Credit Card,Transfer 
+12-04-2023,Income,357,Nagad,Groceries 
+14-08-2024,Income,694,Credit Card,Shopping 
+14-06-2023,Income,937,Bkash,Shopping 
+27-11-2023,Expense,283,Nagad,Shopping 
+10-02-2024,Expense,420,Nagad,Shopping 
+23-04-2024,Income,730,Nagad,Rent 
+13-03-2023,Expense,254,Nagad,Salary 
+07-07-2023,Income,175,Nagad,Rent 
+10-05-2023,Income,182,Credit Card,Transfer 
+18-03-2023,Income,791,Credit Card,Groceries 
+20-06-2023,Income,472,Nagad,Rent 
+20-07-2024,Expense,581,Credit Card,Groceries 
+13-11-2023,Income,826,Bkash,Transfer 
+15-06-2023,Income,275,Cash,Transfer 
+02-08-2024,Expense,862,Credit Card,Transfer 
+22-07-2023,Expense,409,Nagad,Salary 
+25-11-2023,Expense,520,Bkash,Transfer 
+18-08-2023,Income,918,Cash,Salary 
+08-02-2023,Expense,896,Credit Card,Shopping 
+09-02-2023,Income,993,Cash,Rent 
+01-12-2023,Income,249,Nagad,Groceries 
+15-01-2024,Income,322,Nagad,Shopping 
+11-01-2023,Expense,714,Nagad,Groceries 
+04-01-2024,Income,769,Bkash,Transfer 
+12-08-2024,Income,780,Nagad,Transfer 
+13-03-2024,Income,398,Credit Card,Salary 
+24-09-2023,Income,169,Bkash,Groceries 
+22-01-2024,Income,322,Cash,Rent 
+07-01-2024,Income,583,Cash,Salary 
+21-04-2023,Income,890,Credit Card,Shopping 
+12-08-2024,Expense,385,Bkash,Salary 
+26-11-2023,Expense,594,Bkash,Rent 
+04-01-2024,Expense,335,Nagad,Transfer 
+19-04-2023,Expense,648,Bkash,Shopping 
+05-09-2023,Income,632,Bkash,Salary 
+20-07-2024,Expense,333,Nagad,Salary 
+18-07-2023,Income,198,Bkash,Shopping 
+04-05-2024,Expense,186,Cash,Transfer 
+16-04-2023,Income,232,Credit Card,Rent 
+16-11-2024,Income,177,Bkash,Salary 
+08-04-2023,Expense,913,Bkash,Rent 
+02-08-2024,Expense,243,Credit Card,Transfer 
+22-03-2024,Expense,217,Cash,Groceries 
+16-03-2023,Expense,257,Credit Card,Groceries 
+05-03-2023,Income,243,Bkash,Rent 
+18-11-2023,Expense,856,Bkash,Salary 
+09-06-2023,Expense,456,Bkash,Groceries 
+28-04-2023,Expense,784,Credit Card,Transfer 
+20-12-2023,Expense,335,Nagad,Rent 
+07-04-2024,Income,466,Nagad,Groceries 
+19-06-2023,Expense,201,Nagad,Rent 
+05-05-2024,Expense,634,Nagad,Transfer 
+08-12-2023,Expense,860,Bkash,Rent 
+13-04-2024,Expense,533,Nagad,Shopping 
+06-12-2024,Income,876,Bkash,Transfer 
+17-05-2024,Expense,176,Nagad,Salary 
+07-03-2023,Expense,177,Credit Card,Shopping 
+17-07-2023,Income,940,Cash,Shopping 
+15-01-2024,Expense,211,Nagad,Transfer 
+24-09-2023,Income,993,Nagad,Shopping 
+17-02-2023,Income,662,Credit Card,Transfer 
+04-02-2024,Income,955,Cash,Salary 
+09-06-2024,Expense,678,Cash,Groceries 
+24-10-2024,Income,837,Credit Card,Transfer 
+21-04-2023,Expense,632,Bkash,Groceries 
+27-12-2023,Income,806,Cash,Shopping 
+16-07-2024,Income,563,Bkash,Shopping 
+10-08-2024,Income,119,Credit Card,Salary 
+08-11-2024,Expense,236,Bkash,Groceries 
+13-01-2024,Expense,942,Credit Card,Transfer 
+25-09-2024,Income,175,Credit Card,Rent 
+26-02-2024,Expense,931,Nagad,Transfer 
+04-07-2024,Income,666,Bkash,Salary 
+06-09-2024,Income,760,Nagad,Rent 
+19-08-2024,Expense,614,Bkash,Groceries 
+22-06-2024,Expense,218,Nagad,Salary 
+03-04-2023,Income,575,Nagad,Rent 
+18-03-2024,Income,596,Bkash,Transfer 
+21-06-2024,Income,264,Cash,Groceries 
+10-01-2023,Expense,515,Cash,Transfer 
+26-06-2023,Expense,723,Nagad,Shopping 
+14-12-2024,Income,331,Bkash,Shopping 
+15-03-2024,Expense,972,Nagad,Transfer 
+06-12-2023,Expense,940,Bkash,Transfer 
+01-02-2023,Expense,137,Credit Card,Groceries 
+03-12-2023,Income,355,Credit Card,Shopping 
+05-07-2023,Expense,411,Bkash,Groceries 
+10-01-2023,Income,448,Credit Card,Salary 
+07-10-2024,Expense,776,Bkash,Groceries 
+08-12-2024,Expense,1000,Nagad,Transfer 
+10-01-2024,Income,999,Credit Card,Salary 
+04-06-2023,Expense,137,Credit Card,Salary 
+06-09-2024,Expense,608,Cash,Rent 
+14-10-2023,Expense,523,Bkash,Salary 
+26-05-2023,Expense,489,Cash,Transfer 
+27-05-2023,Income,937,Cash,Shopping 
+19-06-2024,Expense,209,Credit Card,Salary 
+21-07-2024,Income,457,Nagad,Transfer 
+11-11-2024,Expense,714,Nagad,Shopping 
+22-09-2024,Income,640,Bkash,Transfer 
+26-03-2024,Income,752,Bkash,Transfer 
+08-10-2024,Income,683,Cash,Shopping 
+04-11-2023,Income,406,Bkash,Shopping 
+20-06-2024,Income,170,Bkash,Shopping 
+26-03-2024,Expense,353,Nagad,Shopping 
+08-12-2023,Income,655,Nagad,Transfer 
+21-11-2024,Expense,954,Nagad,Groceries 
+06-05-2024,Expense,447,Bkash,Groceries 
+10-08-2023,Income,911,Cash,Salary 
+14-01-2024,Income,537,Nagad,Rent 
+25-08-2024,Income,428,Bkash,Salary 
+06-03-2023,Income,702,Nagad,Shopping 
+05-07-2023,Expense,500,Bkash,Transfer 
+13-07-2023,Expense,677,Cash,Shopping 
+21-01-2024,Expense,489,Nagad,Rent 
+13-04-2023,Income,652,Cash,Shopping 
+10-12-2023,Income,375,Credit Card,Rent 
+14-10-2023,Income,124,Nagad,Transfer 
+24-06-2024,Income,371,Nagad,Rent 
+16-02-2023,Income,645,Cash,Rent 
+24-07-2023,Expense,120,Credit Card,Transfer 
+09-11-2024,Income,854,Nagad,Shopping 
+13-05-2024,Income,827,Nagad,Rent 
+24-06-2023,Expense,548,Bkash,Groceries 
+04-12-2024,Expense,212,Credit Card,Transfer 
+24-09-2024,Expense,244,Credit Card,Rent 
+24-06-2023,Income,972,Cash,Groceries 
+05-08-2024,Expense,117,Bkash,Groceries 
+09-12-2024,Income,820,Nagad,Groceries 
+06-04-2024,Expense,368,Credit Card,Salary 
+10-12-2024,Expense,125,Cash,Shopping 
+25-06-2023,Income,251,Credit Card,Salary 
+10-08-2024,Income,324,Cash,Shopping 
+19-09-2024,Income,165,Credit Card,Shopping 
+28-09-2023,Income,626,Nagad,Transfer 
+02-08-2024,Income,602,Bkash,Groceries 
+09-11-2024,Income,483,Bkash,Transfer 
+14-05-2023,Expense,592,Nagad,Transfer 
+15-08-2023,Expense,489,Cash,Rent 
+23-03-2024,Income,434,Credit Card,Groceries 
+23-03-2023,Expense,227,Bkash,Shopping 
+21-05-2023,Income,890,Cash,Transfer 
+15-05-2024,Expense,641,Nagad,Transfer 
+18-01-2024,Income,345,Cash,Transfer 
+24-01-2024,Expense,539,Cash,Groceries 
+17-11-2023,Expense,297,Cash,Groceries 
+13-12-2023,Income,464,Cash,Shopping 
+12-12-2024,Income,468,Credit Card,Salary 
+17-11-2023,Income,449,Nagad,Rent 
+20-08-2023,Income,261,Bkash,Shopping 
+03-09-2024,Expense,666,Bkash,Salary 
+05-08-2023,Expense,404,Credit Card,Transfer 
+24-09-2024,Expense,352,Credit Card,Rent 
+09-09-2023,Income,152,Bkash,Groceries 
+21-10-2024,Expense,991,Credit Card,Salary 
+28-01-2024,Income,819,Bkash,Rent 
+12-11-2024,Expense,494,Credit Card,Transfer 
+14-03-2023,Expense,504,Credit Card,Salary 
+09-02-2023,Income,271,Credit Card,Shopping 
+12-12-2024,Expense,521,Bkash,Groceries 
+11-10-2024,Expense,787,Credit Card,Rent 
+12-10-2024,Income,344,Cash,Shopping 
+07-07-2023,Income,198,Credit Card,Salary 
+19-02-2023,Income,876,Nagad,Transfer 
+05-06-2023,Income,434,Credit Card,Salary 
+03-05-2023,Income,189,Nagad,Shopping 
+11-10-2024,Income,426,Cash,Groceries 
+13-07-2024,Income,786,Bkash,Salary 
+22-04-2023,Expense,491,Cash,Salary 
+22-10-2024,Expense,905,Nagad,Shopping 
+28-08-2023,Income,764,Cash,Rent 
+17-03-2024,Income,248,Credit Card,Rent 
+01-11-2024,Expense,182,Credit Card,Salary 
+09-02-2024,Income,478,Credit Card,Groceries 
+15-06-2024,Income,671,Credit Card,Shopping 
+05-12-2024,Income,482,Nagad,Rent 
+27-12-2023,Expense,685,Cash,Salary 
+10-07-2024,Expense,852,Cash,Transfer 
+13-04-2023,Expense,945,Credit Card,Groceries 
+20-04-2023,Income,278,Bkash,Transfer 
+19-10-2023,Income,520,Credit Card,Salary 
+13-10-2024,Income,994,Credit Card,Rent 
+12-04-2023,Expense,588,Nagad,Rent 
+13-01-2024,Expense,207,Cash,Salary 
+09-02-2023,Income,277,Cash,Shopping 
+10-07-2024,Income,914,Credit Card,Rent 
+16-07-2023,Income,634,Credit Card,Rent 
+14-10-2024,Expense,294,Nagad,Salary 
+24-05-2024,Expense,104,Cash,Transfer 
+23-02-2024,Expense,961,Bkash,Rent 
+27-08-2023,Income,123,Cash,Salary 
+24-07-2023,Income,376,Bkash,Salary 
+04-09-2024,Expense,444,Nagad,Groceries 
+03-02-2024,Expense,316,Cash,Transfer 
+17-12-2024,Expense,621,Credit Card,Rent 
+16-06-2024,Expense,160,Cash,Salary 
+20-03-2023,Income,253,Cash,Rent 
+18-12-2023,Income,421,Credit Card,Groceries 
+16-07-2024,Income,195,Credit Card,Rent 
+27-08-2024,Expense,539,Cash,Transfer 
+17-08-2024,Income,912,Nagad,Shopping 
+24-06-2023,Expense,794,Nagad,Shopping 
+12-02-2023,Income,533,Bkash,Groceries 
+24-11-2023,Expense,529,Credit Card,Groceries 
+19-03-2024,Expense,762,Credit Card,Groceries 
+28-05-2024,Income,141,Credit Card,Groceries 
+08-02-2023,Expense,945,Cash,Salary 
+20-07-2024,Income,688,Nagad,Shopping 
+15-02-2024,Expense,812,Nagad,Groceries 
+04-03-2023,Expense,973,Credit Card,Rent 
+21-10-2023,Expense,691,Nagad,Rent 
+20-06-2023,Expense,444,Bkash,Salary 
+14-12-2024,Expense,230,Bkash,Rent 
+03-12-2023,Expense,458,Cash,Salary 
+18-02-2024,Expense,628,Cash,Salary 
+09-05-2023,Income,968,Nagad,Salary 
+04-01-2024,Expense,450,Credit Card,Salary 
+13-01-2023,Income,591,Credit Card,Groceries 
+20-04-2024,Income,553,Credit Card,Shopping 
+01-03-2024,Income,618,Bkash,Transfer 
+27-10-2024,Expense,244,Cash,Transfer 
+25-03-2024,Expense,962,Cash,Salary 
+21-05-2024,Expense,409,Cash,Shopping 
+07-03-2024,Expense,416,Cash,Transfer 
+07-03-2024,Income,828,Credit Card,Rent 
+19-01-2023,Income,532,Bkash,Rent 
+16-06-2024,Expense,441,Nagad,Shopping 
+09-07-2023,Income,350,Credit Card,Shopping 
+02-10-2024,Expense,147,Cash,Rent 
+17-11-2024,Expense,796,Bkash,Groceries 
+27-03-2023,Expense,515,Credit Card,Groceries 
+08-11-2023,Expense,126,Credit Card,Transfer 
+28-11-2023,Income,780,Cash,Transfer 
+02-04-2023,Expense,185,Nagad,Groceries 
+12-11-2024,Expense,867,Credit Card,Shopping 
+21-04-2024,Expense,132,Nagad,Salary 
+28-04-2023,Expense,318,Bkash,Transfer 
+09-11-2024,Income,655,Nagad,Groceries 
+03-07-2023,Income,516,Nagad,Transfer 
+06-12-2023,Expense,562,Bkash,Shopping 
+06-11-2023,Income,838,Cash,Transfer 
+26-09-2024,Expense,302,Credit Card,Transfer 
+06-08-2023,Expense,213,Cash,Transfer 
+28-01-2024,Income,758,Credit Card,Rent 
+19-10-2024,Expense,687,Nagad,Rent 
+01-07-2024,Income,325,Nagad,Shopping 
+23-07-2024,Expense,773,Bkash,Salary 
+05-01-2024,Expense,452,Cash,Rent 
+23-02-2023,Income,749,Nagad,Rent 
+10-08-2024,Expense,433,Nagad,Rent 
+06-03-2023,Income,840,Bkash,Salary 
+10-09-2023,Expense,528,Cash,Shopping 
+07-02-2024,Expense,169,Nagad,Salary 
+03-07-2024,Expense,191,Credit Card,Groceries 
+03-05-2024,Income,610,Cash,Rent 
+04-05-2024,Income,186,Cash,Shopping 
+14-03-2024,Income,471,Cash,Salary 
+03-01-2023,Income,926,Nagad,Groceries 
+08-11-2023,Expense,400,Nagad,Rent 
+27-11-2023,Expense,221,Bkash,Groceries 
+09-03-2024,Expense,159,Bkash,Salary 
+08-04-2023,Income,913,Nagad,Transfer 
+15-01-2024,Expense,417,Bkash,Shopping 
+12-11-2024,Expense,360,Cash,Groceries 
+26-02-2023,Income,900,Credit Card,Shopping 
+27-02-2024,Expense,442,Credit Card,Rent 
+03-09-2023,Income,756,Credit Card,Shopping 
+01-09-2023,Income,143,Credit Card,Salary 
+25-07-2024,Income,984,Nagad,Groceries 
+18-01-2023,Income,233,Cash,Salary 
+08-12-2024,Expense,464,Bkash,Shopping 
+02-12-2024,Income,658,Bkash,Salary 
+26-09-2024,Income,956,Credit Card,Groceries 
+11-08-2023,Income,636,Nagad,Salary 
+08-07-2024,Income,234,Cash,Salary 
+24-11-2024,Income,193,Cash,Salary 
+23-08-2024,Expense,224,Nagad,Salary 
+03-02-2024,Income,765,Nagad,Rent 
+05-10-2023,Expense,187,Nagad,Rent 
+19-04-2023,Income,613,Nagad,Groceries 
+20-06-2024,Income,476,Credit Card,Shopping 
+25-07-2023,Expense,351,Credit Card,Transfer 
+09-10-2024,Expense,259,Bkash,Shopping 
+10-12-2023,Income,938,Cash,Groceries 
+10-02-2024,Expense,627,Credit Card,Groceries 
+04-02-2023,Income,302,Bkash,Transfer 
+14-08-2023,Expense,749,Cash,Transfer 
+24-08-2023,Expense,117,Nagad,Salary 
+05-10-2024,Expense,677,Credit Card,Rent 
+20-09-2023,Income,523,Credit Card,Transfer 
+28-07-2023,Income,583,Bkash,Transfer 
+07-12-2023,Income,262,Credit Card,Transfer 
+16-04-2024,Income,326,Nagad,Groceries 
+21-07-2023,Expense,850,Credit Card,Transfer 
+27-05-2024,Expense,947,Nagad,Salary 
+06-03-2024,Income,163,Cash,Salary 
+16-10-2023,Expense,993,Nagad,Transfer 
+09-09-2023,Income,352,Credit Card,Salary 
+23-06-2024,Expense,102,Cash,Shopping 
+04-03-2023,Expense,556,Cash,Transfer 
+25-03-2023,Income,520,Bkash,Shopping 
+03-09-2023,Expense,992,Nagad,Transfer 
+22-07-2023,Expense,606,Credit Card,Shopping 
+16-12-2023,Expense,243,Cash,Transfer 
+05-04-2024,Income,885,Bkash,Groceries 
+22-02-2024,Expense,610,Nagad,Shopping 
+21-02-2023,Income,400,Bkash,Rent 
+08-06-2024,Expense,541,Credit Card,Transfer 
+06-10-2023,Expense,385,Credit Card,Transfer 
+04-12-2024,Income,932,Cash,Shopping 
+13-06-2023,Expense,903,Bkash,Shopping 
+13-03-2024,Expense,805,Nagad,Salary 
+27-12-2023,Expense,496,Cash,Groceries 
+09-01-2024,Expense,743,Credit Card,Shopping 
+02-08-2024,Expense,689,Nagad,Shopping 
+14-03-2024,Income,459,Bkash,Rent 
+15-05-2024,Income,207,Nagad,Salary 
+20-05-2023,Expense,504,Nagad,Shopping 
+23-11-2024,Expense,567,Cash,Groceries 
+06-12-2023,Expense,228,Nagad,Transfer 
+06-03-2023,Income,237,Credit Card,Rent 
+23-01-2024,Expense,887,Cash,Groceries 
+10-06-2024,Income,820,Cash,Groceries 
+13-11-2024,Income,880,Credit Card,Groceries 
+19-08-2024,Income,996,Bkash,Salary 
+13-10-2023,Income,972,Credit Card,Shopping 
+02-06-2023,Expense,710,Nagad,Rent 
+22-05-2023,Income,277,Nagad,Shopping 
+17-12-2024,Expense,294,Bkash,Salary 
+10-03-2024,Expense,652,Bkash,Transfer 
+27-01-2023,Expense,178,Bkash,Transfer 
+18-05-2023,Expense,673,Credit Card,Transfer 
+05-05-2023,Expense,680,Cash,Transfer 
+03-03-2024,Expense,773,Nagad,Salary 
+21-02-2023,Income,284,Cash,Salary 
+11-02-2024,Income,446,Nagad,Salary 
+12-04-2024,Income,141,Credit Card,Groceries 
+04-04-2023,Income,759,Cash,Rent 
+27-06-2023,Expense,247,Nagad,Shopping 
+07-01-2023,Expense,824,Credit Card,Shopping 
+28-01-2023,Income,374,Credit Card,Transfer 
+22-06-2023,Expense,344,Credit Card,Shopping 
+17-07-2023,Income,824,Credit Card,Shopping 
+09-06-2023,Expense,318,Credit Card,Transfer 
+25-11-2024,Income,915,Bkash,Salary 
+21-06-2024,Income,135,Nagad,Rent 
+17-10-2023,Expense,642,Cash,Transfer 
+11-05-2024,Income,805,Cash,Groceries 
+12-12-2023,Expense,144,Cash,Salary 
+18-11-2024,Income,849,Credit Card,Salary 
+27-08-2023,Expense,701,Cash,Rent 
+05-05-2024,Expense,613,Cash,Groceries 
+28-07-2024,Expense,353,Cash,Transfer 
+28-09-2024,Expense,913,Nagad,Shopping 
+14-03-2023,Income,680,Bkash,Shopping 
+10-10-2023,Income,416,Bkash,Transfer 
+05-11-2023,Expense,877,Nagad,Groceries 
+18-08-2023,Income,261,Cash,Rent 
+23-09-2024,Income,575,Bkash,Rent 
+23-11-2023,Expense,362,Nagad,Groceries 
+11-09-2023,Expense,921,Cash,Transfer 
+14-09-2024,Income,182,Credit Card,Transfer 
+20-12-2024,Income,339,Bkash,Groceries 
+02-06-2024,Income,145,Bkash,Groceries 
+25-12-2024,Expense,325,Credit Card,Shopping 
+06-05-2024,Income,271,Nagad,Transfer 
+17-02-2024,Income,617,Bkash,Transfer 
+16-02-2024,Income,580,Cash,Groceries 
+10-03-2024,Income,545,Bkash,Salary 
+06-02-2023,Income,654,Cash,Groceries 
+18-05-2023,Expense,576,Cash,Salary 
+13-01-2023,Income,280,Bkash,Groceries 
+11-09-2023,Expense,589,Nagad,Groceries 
+25-02-2024,Income,907,Cash,Shopping 
+13-02-2023,Income,133,Cash,Rent 
+27-10-2023,Income,337,Credit Card,Transfer 
+18-08-2024,Income,156,Credit Card,Transfer 
+07-05-2023,Expense,397,Credit Card,Salary 
+04-09-2024,Income,248,Credit Card,Transfer 
+28-10-2024,Income,456,Credit Card,Shopping 
+26-02-2024,Expense,236,Bkash,Salary 
+12-10-2024,Income,463,Credit Card,Salary 
+02-11-2024,Income,839,Nagad,Groceries 
+25-02-2023,Expense,843,Nagad,Rent 
+02-08-2024,Expense,297,Nagad,Rent 
+17-06-2023,Income,153,Bkash,Transfer 
+07-08-2024,Income,395,Cash,Rent 
+12-12-2024,Income,786,Bkash,Shopping 
+22-12-2023,Income,158,Credit Card,Groceries 
+06-04-2023,Income,343,Nagad,Rent 
+10-12-2023,Expense,206,Credit Card,Transfer 
+25-04-2024,Expense,146,Bkash,Groceries 
+03-04-2024,Expense,774,Cash,Shopping 
+25-12-2023,Income,326,Nagad,Salary 
+17-11-2024,Income,317,Bkash,Salary 
+18-01-2024,Income,665,Cash,Groceries 
+10-04-2024,Expense,231,Cash,Salary 
+07-02-2024,Expense,445,Cash,Salary 
+23-12-2023,Income,840,Cash,Salary 
+01-09-2024,Income,305,Bkash,Shopping 
+28-11-2024,Expense,122,Bkash,Salary 
+06-12-2023,Income,664,Bkash,Salary 
+25-11-2024,Income,419,Cash,Salary 
+08-08-2023,Expense,489,Bkash,Rent 
+27-09-2024,Expense,379,Cash,Groceries 
+26-11-2024,Expense,804,Credit Card,Groceries 
+01-10-2023,Expense,854,Nagad,Shopping 
+14-06-2024,Expense,112,Nagad,Rent 
+14-04-2024,Income,855,Nagad,Salary 
+03-04-2024,Expense,158,Nagad,Transfer 
+25-07-2023,Income,598,Cash,Shopping 
+20-11-2024,Income,734,Nagad,Rent 
+20-04-2023,Income,789,Nagad,Transfer 
+23-08-2023,Expense,477,Cash,Salary 
+15-08-2023,Expense,144,Nagad,Rent 
+06-01-2023,Income,451,Cash,Rent 
+18-07-2023,Expense,302,Credit Card,Groceries 
+18-04-2023,Income,871,Nagad,Salary 
+16-10-2023,Income,201,Cash,Shopping 
+22-05-2023,Income,897,Nagad,Groceries 
+08-09-2024,Income,164,Cash,Salary 
+03-05-2023,Income,786,Bkash,Rent 
+03-10-2024,Expense,600,Credit Card,Rent 
+17-01-2023,Income,962,Nagad,Rent 
+11-11-2024,Expense,689,Nagad,Rent 
+05-06-2023,Income,594,Credit Card,Salary 
+14-12-2023,Income,741,Credit Card,Salary 
+27-07-2024,Income,706,Credit Card,Shopping 
+22-12-2023,Expense,106,Nagad,Transfer 
+27-08-2023,Income,514,Bkash,Rent 
+08-09-2023,Expense,785,Cash,Groceries 
+04-01-2023,Income,582,Cash,Salary 
+01-12-2023,Expense,485,Nagad,Transfer 
+27-08-2024,Income,820,Bkash,Groceries 
+20-05-2024,Income,852,Bkash,Salary 
+21-12-2023,Income,966,Bkash,Groceries 
+08-06-2024,Expense,901,Cash,Salary 
+12-01-2024,Income,513,Nagad,Groceries 
+02-10-2024,Expense,455,Credit Card,Rent 
+13-02-2024,Income,684,Credit Card,Rent 
+28-02-2023,Income,181,Nagad,Groceries 
+05-03-2023,Income,530,Nagad,Transfer 
+13-04-2024,Expense,296,Credit Card,Rent 
+07-08-2023,Expense,956,Bkash,Transfer 
+14-07-2023,Expense,712,Bkash,Shopping 
+20-04-2024,Expense,404,Cash,Salary 
+07-11-2024,Expense,248,Credit Card,Shopping 
+11-04-2024,Expense,692,Credit Card,Salary 
+18-10-2024,Income,191,Credit Card,Rent 
+10-07-2023,Income,796,Cash,Shopping 
+28-08-2023,Expense,679,Credit Card,Groceries 
+16-06-2024,Expense,283,Credit Card,Shopping 
+01-12-2024,Income,236,Bkash,Transfer 
+13-12-2024,Expense,983,Credit Card,Shopping 
+23-05-2023,Expense,436,Nagad,Groceries 
+20-05-2023,Expense,427,Cash,Rent 
+18-03-2023,Expense,632,Credit Card,Salary 
+15-02-2024,Income,105,Credit Card,Transfer 
+06-07-2024,Expense,630,Nagad,Groceries 
+08-01-2024,Income,342,Cash,Groceries 
+16-08-2024,Income,619,Bkash,Rent 
+20-03-2023,Income,452,Credit Card,Salary 
+15-05-2024,Income,208,Nagad,Salary 
+08-02-2024,Income,383,Nagad,Transfer 
+02-01-2023,Expense,428,Nagad,Transfer 
+15-04-2024,Income,187,Credit Card,Transfer 
+18-07-2023,Expense,906,Nagad,Transfer 
+21-10-2024,Income,815,Credit Card,Shopping 
+22-05-2024,Expense,619,Nagad,Groceries 
+26-03-2023,Expense,202,Bkash,Rent 
+22-12-2023,Expense,880,Credit Card,Shopping 
+17-07-2023,Income,467,Cash,Rent 
+19-09-2024,Income,670,Nagad,Rent 
+18-07-2023,Expense,107,Nagad,Rent 
+13-05-2023,Expense,237,Credit Card,Rent 
+08-09-2023,Income,466,Cash,Groceries 
+17-10-2023,Income,431,Bkash,Salary 
+26-03-2023,Income,134,Cash,Transfer 
+24-11-2024,Expense,518,Credit Card,Groceries 
+06-12-2024,Income,295,Nagad,Salary 
+18-11-2023,Expense,465,Cash,Rent 
+08-09-2024,Income,692,Cash,Shopping 
+04-05-2023,Income,362,Bkash,Salary 
+10-02-2023,Expense,478,Cash,Salary 
+09-07-2023,Expense,841,Credit Card,Rent 
+16-11-2024,Income,635,Credit Card,Transfer 
+26-08-2023,Expense,577,Nagad,Rent 
+14-02-2024,Expense,260,Credit Card,Rent 
+04-05-2023,Income,205,Cash,Salary 
+11-01-2024,Expense,834,Bkash,Transfer 
+10-09-2023,Expense,640,Cash,Rent 
+09-01-2023,Expense,766,Bkash,Transfer 
+04-12-2023,Income,980,Cash,Shopping 
+13-12-2023,Income,523,Cash,Shopping 
+27-12-2023,Expense,279,Credit Card,Transfer 
+17-03-2024,Expense,644,Credit Card,Transfer 
+25-10-2024,Income,828,Credit Card,Groceries 
+24-01-2023,Expense,386,Nagad,Rent 
+16-11-2024,Expense,540,Bkash,Groceries 
+20-03-2023,Income,844,Bkash,Shopping 
+05-05-2024,Expense,741,Bkash,Salary 
+27-09-2023,Expense,711,Cash,Groceries 
+12-08-2024,Income,375,Cash,Shopping 
+01-01-2024,Expense,415,Nagad,Transfer 
+12-08-2024,Expense,799,Credit Card,Rent 
+14-06-2024,Expense,358,Cash,Shopping 
+17-04-2023,Income,839,Cash,Rent 
+21-12-2023,Income,818,Bkash,Groceries 
+28-06-2024,Expense,166,Cash,Transfer 
+12-06-2023,Expense,653,Cash,Salary 
+01-08-2023,Expense,163,Bkash,Rent 
+02-11-2023,Expense,269,Cash,Rent 
+16-09-2024,Income,616,Credit Card,Transfer 
+22-09-2023,Income,126,Cash,Rent 
+01-10-2023,Expense,825,Bkash,Groceries 
+20-01-2023,Expense,458,Credit Card,Rent 
+06-07-2023,Expense,376,Cash,Rent 
+10-10-2023,Income,534,Nagad,Groceries 
+20-10-2024,Expense,275,Nagad,Rent 
+26-08-2024,Income,382,Bkash,Salary 
+16-02-2023,Income,394,Credit Card,Transfer 
+25-12-2023,Expense,408,Nagad,Salary 
+08-07-2024,Expense,287,Bkash,Rent 
+24-03-2024,Income,772,Bkash,Rent 
+08-02-2024,Income,251,Nagad,Transfer 
+28-11-2024,Expense,563,Bkash,Groceries 
+26-08-2024,Expense,528,Bkash,Transfer 
+13-12-2024,Income,344,Nagad,Shopping 
+28-03-2023,Expense,735,Cash,Groceries 
+22-09-2024,Income,249,Credit Card,Shopping 
+04-11-2024,Income,163,Bkash,Shopping 
+06-03-2023,Expense,427,Credit Card,Transfer 
+07-12-2023,Income,372,Bkash,Salary 
+09-01-2023,Income,425,Bkash,Shopping 
+19-04-2023,Expense,276,Credit Card,Transfer 
+14-07-2023,Income,289,Cash,Transfer 
+21-08-2024,Expense,407,Nagad,Rent 
+02-12-2024,Income,566,Cash,Transfer 
+07-07-2023,Income,453,Bkash,Transfer 
+22-04-2024,Income,368,Cash,Groceries 
+06-05-2023,Income,479,Cash,Salary 
+17-02-2023,Expense,510,Cash,Groceries 
+04-02-2023,Expense,682,Credit Card,Transfer 
+22-03-2024,Expense,738,Credit Card,Salary 
+10-08-2023,Income,555,Nagad,Salary 
+01-06-2024,Expense,920,Cash,Salary 
+18-11-2023,Income,887,Credit Card,Groceries 
+17-03-2023,Income,782,Nagad,Transfer 
+10-08-2023,Income,992,Credit Card,Shopping 
+21-10-2024,Income,113,Nagad,Shopping 
+04-10-2024,Expense,427,Bkash,Shopping 
+25-09-2023,Expense,608,Nagad,Shopping 
+28-11-2023,Expense,528,Cash,Transfer 
+26-10-2023,Income,369,Credit Card,Transfer 
+16-03-2023,Income,770,Bkash,Groceries 
+08-12-2023,Expense,160,Credit Card,Transfer 
+10-02-2024,Income,987,Cash,Shopping 
+22-02-2023,Expense,391,Nagad,Transfer 
+05-09-2024,Income,909,Credit Card,Shopping 
+28-06-2023,Expense,181,Cash,Rent 
+27-03-2023,Expense,864,Credit Card,Groceries 
+28-06-2024,Expense,511,Nagad,Transfer 
+10-06-2024,Income,590,Cash,Transfer 
+10-12-2023,Expense,992,Bkash,Rent 
+17-09-2024,Expense,733,Credit Card,Groceries 
+10-06-2023,Expense,231,Cash,Groceries 
+22-02-2024,Expense,266,Nagad,Rent 
+19-02-2023,Expense,830,Credit Card,Shopping 
+20-09-2023,Expense,796,Nagad,Rent 
+12-11-2023,Expense,729,Credit Card,Salary 
+19-07-2024,Income,198,Credit Card,Groceries 
+06-07-2024,Income,618,Nagad,Transfer 
+09-08-2024,Expense,958,Bkash,Shopping 
+28-09-2024,Income,842,Bkash,Transfer 
+26-04-2024,Expense,558,Credit Card,Groceries 
+19-06-2023,Expense,356,Cash,Shopping 
+14-05-2023,Expense,938,Credit Card,Transfer 
+04-04-2024,Income,508,Credit Card,Shopping 
+07-12-2024,Income,441,Bkash,Shopping 
+16-03-2024,Income,743,Nagad,Groceries 
+24-07-2023,Expense,301,Cash,Groceries 
+27-07-2023,Expense,514,Bkash,Rent 
+07-01-2023,Income,611,Cash,Rent 
+25-08-2023,Expense,903,Nagad,Salary 
+06-01-2023,Income,100,Credit Card,Shopping 
+01-01-2024,Income,511,Nagad,Salary 
+20-06-2023,Expense,665,Credit Card,Transfer 
+01-02-2023,Expense,511,Bkash,Transfer 
+26-12-2023,Expense,121,Nagad,Rent 
+23-02-2024,Income,353,Bkash,Shopping 
+26-02-2024,Income,986,Cash,Rent 
+13-06-2024,Income,867,Nagad,Groceries 
+17-07-2024,Expense,427,Cash,Groceries 
+10-03-2024,Income,211,Bkash,Shopping 
+04-01-2024,Income,313,Bkash,Rent 
+11-07-2023,Income,573,Bkash,Shopping 
+11-04-2023,Income,791,Credit Card,Groceries 
+21-02-2023,Expense,514,Cash,Shopping 
+01-07-2024,Expense,922,Credit Card,Rent 
+06-06-2023,Expense,257,Credit Card,Salary 
+12-09-2024,Expense,897,Nagad,Rent 
+05-09-2023,Income,265,Bkash,Salary 
+05-01-2024,Expense,848,Bkash,Groceries 
+21-08-2023,Income,689,Credit Card,Groceries 
+26-08-2023,Income,277,Credit Card,Rent 
+05-07-2023,Expense,391,Credit Card,Salary 
+09-07-2023,Expense,993,Cash,Salary 
+11-12-2024,Expense,458,Bkash,Rent 
+07-11-2023,Income,444,Credit Card,Shopping 
+23-04-2024,Expense,162,Bkash,Salary 
+15-07-2024,Expense,923,Cash,Shopping 
+07-09-2024,Income,993,Cash,Salary 
+27-05-2023,Income,923,Credit Card,Transfer 
+03-09-2023,Expense,434,Credit Card,Rent 
+17-10-2023,Expense,750,Cash,Transfer 
+15-10-2023,Expense,717,Nagad,Salary 
+17-03-2024,Income,759,Nagad,Transfer 
+16-02-2024,Income,246,Credit Card,Transfer 
+08-10-2024,Expense,896,Credit Card,Shopping 
+08-07-2023,Expense,991,Credit Card,Transfer 
+16-04-2023,Income,860,Bkash,Salary 
+02-09-2023,Expense,135,Cash,Transfer 
+12-05-2024,Income,508,Credit Card,Shopping 
+01-04-2023,Expense,815,Bkash,Groceries 
+24-05-2023,Income,388,Cash,Transfer 
+25-11-2023,Expense,115,Credit Card,Rent 
+21-07-2024,Expense,410,Bkash,Rent 
+10-01-2024,Income,401,Nagad,Shopping 
+01-10-2024,Expense,205,Credit Card,Groceries 
+17-07-2024,Expense,976,Cash,Groceries 
+06-03-2023,Expense,228,Credit Card,Shopping 
+26-05-2023,Expense,232,Cash,Rent 
+24-02-2023,Income,549,Credit Card,Groceries 
+11-05-2023,Expense,442,Credit Card,Groceries 
+14-05-2024,Income,792,Bkash,Salary 
+15-07-2023,Income,706,Nagad,Transfer 
+08-07-2024,Expense,211,Nagad,Groceries 
+14-12-2024,Income,755,Bkash,Rent 
+06-05-2024,Expense,578,Bkash,Shopping 
+22-04-2023,Income,416,Cash,Salary 
+06-08-2023,Income,147,Nagad,Transfer 
+01-06-2024,Expense,692,Cash,Rent 
+27-06-2024,Income,284,Bkash,Rent 
+01-04-2023,Expense,328,Cash,Rent 
+04-09-2023,Income,641,Nagad,Transfer 
+09-07-2024,Income,283,Nagad,Transfer 
+16-12-2023,Income,847,Bkash,Rent 
+16-12-2023,Income,165,Bkash,Groceries 
+27-07-2024,Expense,485,Credit Card,Shopping 
+17-12-2023,Income,810,Credit Card,Transfer 
+16-06-2023,Income,109,Credit Card,Transfer 
+22-06-2024,Expense,139,Cash,Groceries 
+14-12-2024,Income,606,Bkash,Transfer 
+16-02-2024,Expense,989,Nagad,Rent 
+20-01-2023,Income,372,Nagad,Salary 
+17-08-2024,Expense,251,Nagad,Shopping 
+24-03-2024,Income,294,Cash,Transfer 
+06-04-2023,Income,785,Bkash,Groceries 
+28-10-2024,Income,315,Credit Card,Rent 
+09-09-2023,Income,160,Cash,Salary 
+11-05-2023,Expense,460,Bkash,Transfer 
+17-08-2023,Income,833,Nagad,Groceries 
+16-11-2023,Expense,679,Credit Card,Shopping 
+08-08-2024,Expense,984,Bkash,Salary 
+11-08-2023,Expense,875,Nagad,Groceries 
+11-06-2024,Income,418,Nagad,Transfer 
+11-02-2023,Income,191,Cash,Shopping 
+12-05-2024,Income,208,Credit Card,Transfer 
+13-11-2023,Income,176,Nagad,Rent 
+05-10-2023,Income,512,Cash,Rent 
+23-11-2024,Income,924,Credit Card,Transfer 
+08-04-2023,Income,907,Nagad,Transfer 
+21-08-2023,Income,343,Cash,Salary 
+03-06-2023,Expense,913,Bkash,Groceries 
+10-11-2023,Income,943,Bkash,Rent 
+23-07-2024,Income,251,Nagad,Salary 
+10-08-2024,Expense,233,Nagad,Groceries 
+13-05-2024,Income,100,Credit Card,Salary 
+16-12-2023,Expense,871,Bkash,Transfer 
+09-08-2024,Income,978,Credit Card,Rent 
+26-05-2023,Expense,771,Bkash,Groceries 
+08-02-2023,Expense,258,Credit Card,Groceries 
+12-03-2024,Expense,720,Bkash,Salary 
+05-06-2023,Expense,724,Cash,Transfer 
+27-03-2023,Expense,669,Credit Card,Rent 
+01-03-2024,Income,715,Credit Card,Groceries 
+24-08-2024,Income,219,Bkash,Rent 
+18-10-2023,Expense,395,Bkash,Transfer 
+09-12-2024,Income,114,Bkash,Shopping 
+25-02-2024,Expense,469,Bkash,Salary 
+01-10-2023,Expense,668,Cash,Salary 
+19-01-2024,Income,527,Cash,Salary 
+28-08-2023,Expense,892,Nagad,Salary 
+05-01-2023,Income,604,Nagad,Salary 
+13-11-2023,Income,689,Credit Card,Shopping 
+27-09-2023,Expense,852,Cash,Groceries 
+17-05-2024,Income,300,Bkash,Rent 
+27-01-2024,Expense,285,Nagad,Groceries 
+18-05-2023,Expense,538,Bkash,Shopping 
+17-07-2023,Expense,540,Bkash,Transfer 
+16-07-2024,Income,742,Nagad,Rent 
+25-05-2023,Expense,907,Nagad,Transfer 
+12-07-2024,Expense,680,Nagad,Groceries 
+01-09-2024,Income,622,Credit Card,Salary 
+10-09-2024,Expense,135,Credit Card,Salary 
+17-10-2023,Expense,323,Credit Card,Salary 
+19-12-2024,Income,535,Credit Card,Salary 
+01-09-2023,Expense,594,Credit Card,Rent 
+08-06-2023,Expense,483,Nagad,Rent 
+09-12-2024,Income,621,Nagad,Rent 
+10-08-2024,Income,203,Nagad,Rent 
+19-09-2024,Expense,876,Credit Card,Groceries 
+19-01-2023,Income,201,Nagad,Transfer 
+21-10-2023,Income,910,Bkash,Shopping 
+14-03-2023,Income,784,Nagad,Shopping 
+13-01-2023,Income,697,Nagad,Transfer 
+14-10-2024,Expense,863,Bkash,Groceries 
+03-03-2023,Expense,840,Cash,Rent 
+07-11-2024,Expense,306,Credit Card,Salary 
+02-01-2024,Income,442,Credit Card,Transfer 
+01-12-2024,Expense,378,Nagad,Transfer 
+28-04-2024,Expense,874,Nagad,Transfer 
+03-06-2023,Income,369,Cash,Shopping 
+13-04-2024,Income,646,Credit Card,Groceries 
+12-11-2023,Income,494,Bkash,Groceries 
+19-04-2023,Expense,939,Credit Card,Transfer 
+16-08-2024,Expense,932,Nagad,Transfer 
+03-07-2023,Income,183,Cash,Shopping 
+09-05-2023,Income,559,Credit Card,Shopping 
+04-03-2023,Income,946,Bkash,Shopping 
+05-04-2023,Expense,541,Credit Card,Groceries 
+07-02-2023,Expense,279,Cash,Salary 
+06-03-2024,Income,139,Cash,Salary 
+10-03-2023,Income,322,Cash,Rent 
+22-12-2023,Expense,959,Credit Card,Salary 
+28-09-2023,Expense,887,Bkash,Shopping 
+26-07-2024,Income,213,Cash,Rent 
+01-12-2023,Income,977,Nagad,Transfer 
+20-04-2024,Expense,319,Bkash,Salary 
+17-01-2024,Expense,868,Nagad,Groceries 
+01-01-2024,Expense,181,Bkash,Groceries 
+16-01-2023,Expense,982,Bkash,Transfer 
+16-08-2023,Income,313,Cash,Salary 
+20-04-2024,Income,998,Cash,Salary 
+20-12-2024,Income,321,Nagad,Rent 
+18-05-2024,Expense,909,Credit Card,Rent 
+15-05-2024,Income,129,Cash,Groceries 
+22-06-2024,Income,386,Bkash,Groceries 
+14-04-2023,Expense,761,Credit Card,Rent 
+04-10-2023,Income,545,Bkash,Groceries 
+09-12-2024,Expense,810,Credit Card,Groceries 
+25-12-2023,Expense,880,Bkash,Transfer 
+15-02-2023,Income,838,Bkash,Groceries 
+09-09-2024,Expense,828,Cash,Salary 
+05-06-2024,Expense,282,Bkash,Shopping 
+26-09-2024,Income,889,Bkash,Transfer 
+19-01-2024,Expense,694,Nagad,Transfer 
+28-02-2024,Expense,477,Credit Card,Transfer 
+10-02-2023,Income,930,Cash,Rent 
+13-06-2023,Income,179,Cash,Shopping 
+08-08-2024,Expense,947,Credit Card,Transfer 
